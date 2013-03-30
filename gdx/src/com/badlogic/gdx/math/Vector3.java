@@ -27,9 +27,9 @@ public class Vector3 implements Serializable, Vector<Vector3> {
 
 	/** the x-component of this vector **/
 	public float x;
-	/** the x-component of this vector **/
+	/** the y-component of this vector **/
 	public float y;
-	/** the x-component of this vector **/
+	/** the z-component of this vector **/
 	public float z;
 
 	/** Static temporary vector. Use with care! Use only when sure other code will not also use this.
